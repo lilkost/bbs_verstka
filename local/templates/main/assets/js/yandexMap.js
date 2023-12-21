@@ -25,7 +25,7 @@ function init() {
 		`
 	}, {
 		iconLayout: 'default#image',
-		iconImageHref: 'local/templates/main/assets/images/icon/yandexmap.svg',
+		iconImageHref: '../images/icon/yandexmap.svg',
 		iconImageSize: [40, 40],
 		iconImageOffset: [-19, -44]
 	});
